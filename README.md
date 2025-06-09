@@ -10,12 +10,25 @@ Um jogo simples onde o jogador tenta adivinhar um número secreto gerado aleator
 - O jogo dá dicas indicando se o número é maior ou menor.
 - O jogador vence ao acertar o número secreto!
 
+## 🚀 Tecnologias Utilizadas
+- 🐍 Python
+- ⚡ Flask
+- 🎨 HTML & CSS
+
+
 ## 📂 Estrutura do Projeto
 ```
 /adivinhe_o_numero
 │-- app.py
 │-- README.md
 ```
+
+## 📫 Contato
+Me encontre nas redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-usuario)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
 
 ## Imagem do Projeto
 
